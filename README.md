@@ -36,7 +36,7 @@ Changing module to node resolution in tsconfig.json
  <img src="https://github.com/lucasmargui/React_Estrutura_Rotas/assets/157809964/769d3268-1027-454a-b06d-00da43230afd" style="width:50%">
 </div>
 
-##Home
+## Home
  Directory where the components related to this page will be stored and has the path https://localhost:3000/home
 
 ### about
